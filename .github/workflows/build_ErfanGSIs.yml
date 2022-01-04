@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl3.smartisan.com/ota/rls.delta-ard10-mol-8.0.0-20201127-SEKSA.delta-user/202112171555/8.0.2-202112171416-user-dlt-fd38ed4cf6.zip
+  ROM_URL: https://dl3.smartisan.com/ota/mol.trident-rom-7.0.0-SEKSA.trident-user/202103112107/7.2.0.3-202103112009-user-trd-29c5ec9f56.zip
   ROM_NAME: SmartisanOS
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
